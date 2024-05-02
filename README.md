@@ -14,11 +14,7 @@ Atliq Hardware, a company on the path to advanced analytics, relies heavily on E
 
 ### Customer Performance Report
 
-![Customer Performance Report](link_to_customer_performance_report_image)
-
 ### Market Performance vs Target
-
-![Market Performance vs Target](link_to_market_performance_image)
 
 ### P&L by Year
 
