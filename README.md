@@ -18,11 +18,9 @@ Atliq Hardware, a company on the path to advanced analytics, relies heavily on E
 
 ### P&L by Year
 
-![P&L by Year](link_to_yearly_pl_image)
 
 ### P&L by Month
 
-![P&L by Month](link_to_monthly_pl_image)
 
 ## Skills Acquired
 
